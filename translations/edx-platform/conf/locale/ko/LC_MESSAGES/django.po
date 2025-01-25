@@ -3,6 +3,16 @@ msgstr ""
 "Language: ko\n"
 
 
+msgid "Courses"
+msgstr "코스"
+
+msgid "Welcome"
+msgstr "환영합니다"
+
+msgid "Submit"
+msgstr "제출"
+
+
 #: programs/apps/api/serializers.py:330
 #, python-brace-format
 msgid "When creating a Program, '{status}' is not a valid choice."
