@@ -1582,7 +1582,7 @@ msgstr ""
 #, python-brace-format
 msgid ""
 "Add a recovery email to retain access when single-sign on is not available. "
-"Go to {link_start}your Account Settings{link_end}."
+"Go to {link_start}your 어카운트 수정{link_end}."
 msgstr ""
 
 #: common/djangoapps/student/views/dashboard.py:633
@@ -8052,7 +8052,7 @@ msgid ""
 "password{strong_tag_close}{break_line_tag}As of {deadline}, {platform_name} "
 "will require all learners to have complex passwords. Your current password "
 "does not meet these requirements. To reset your password, go to to "
-"{anchor_tag_open}Account Settings{anchor_tag_close}."
+"{anchor_tag_open}어카운트 수정{anchor_tag_close}."
 msgstr ""
 
 #: openedx/core/djangoapps/profile_images/images.py:98
@@ -22923,7 +22923,7 @@ msgid "Currently the {platform_name} servers are overloaded"
 msgstr ""
 
 #: lms/templates/student_account/account_settings.html:20
-msgid "Account Settings"
+msgid "어카운트 수정"
 msgstr ""
 
 #: lms/templates/student_account/account_settings.html:82
