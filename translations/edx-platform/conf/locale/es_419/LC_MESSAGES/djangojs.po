@@ -385,7 +385,7 @@ msgstr "Acción requerida: Introduzca una fecha válida."
 
 #: cms/static/js/models/group.js:41
 msgid "Group name is required"
-msgstr "Nombre de grupo requerido"
+msgstr "이름 de grupo requerido"
 
 #: cms/static/js/models/group_configuration.js:17
 msgid "Group A"
@@ -397,7 +397,7 @@ msgstr "Grupo B"
 
 #: cms/static/js/models/group_configuration.js:91
 msgid "Group Configuration name is required."
-msgstr "Nombre de grupo de configuración requerido."
+msgstr "이름 de grupo de configuración requerido."
 
 #: cms/static/js/models/group_configuration.js:98
 msgid "There must be at least one group."
@@ -640,7 +640,7 @@ msgstr "Su archivo ha sido borrado."
 #: cms/templates/js/signatory-details.underscore:13
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist.underscore:20
 msgid "Name"
-msgstr "Nombre"
+msgstr "이름"
 
 #: cms/static/js/views/assets.js:111
 #: cms/templates/js/asset-library.underscore:52
@@ -2604,11 +2604,11 @@ msgstr "Actualizar"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:44
 msgid "Team Name (Required) *"
-msgstr "Nombre del equipo (Requerido) *"
+msgstr "이름 del equipo (Requerido) *"
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:46
 msgid "A name that identifies your team (maximum 255 characters)."
-msgstr "Nombre que identifica al equipo (máximo 255 caracteres)."
+msgstr "이름 que identifica al equipo (máximo 255 caracteres)."
 
 #: lms/djangoapps/teams/static/teams/js/views/edit_team.js:51
 msgid "Team Description (Required) *"
@@ -3123,9 +3123,9 @@ msgid ""
 "You have been logged out of your account. Click Okay to log in again now. "
 "Click Cancel to stay on this page (you must log in again to save your work)."
 msgstr ""
-"Se ha cerrado la sesión de tu cuenta. Presiona en Okay para iniciar sesión "
+"Se ha cerrado la 세션 de tu cuenta. Presiona en Okay para iniciar 세션 "
 "nuevamente. Presiona Cancelar para permanecer en esta pagina (debes ingresar"
-" nuevamente a tu sesión para guardar tu trabajo)."
+" nuevamente a tu 세션 para guardar tu trabajo)."
 
 #: lms/static/js/api_admin/views/catalog_preview.js:25
 msgid "Preview this query"
@@ -3957,7 +3957,7 @@ msgstr "Marcar código de inscripción como no utilizado"
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:20
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:20
 msgid "Username"
-msgstr "Nombre de usuario"
+msgstr "이름 de usuario"
 
 #: lms/static/js/instructor_dashboard/membership.js:112
 #: lms/static/js/instructor_dashboard/membership.js:117
@@ -4626,7 +4626,7 @@ msgstr "No hay tareas en proceso en este momento."
 
 #: lms/static/js/instructor_dashboard/util.js:501
 msgid "File Name"
-msgstr "Nombre de archivo"
+msgstr "이름 de archivo"
 
 #: lms/static/js/instructor_dashboard/util.js:502
 msgid ""
@@ -4687,7 +4687,7 @@ msgstr "${price} {currency} al mes"
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:220
 msgid "You must select a session to access the course."
-msgstr "Debe seleccionar una sesión para acceder al curso."
+msgstr "Debe seleccionar una 세션 para acceder al curso."
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:247
 msgid "There was an error. Please reload the page and try again."
@@ -4706,25 +4706,25 @@ msgstr "Seleccionar la edición."
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:286
 msgid "Leave Current Session"
-msgstr "Salir de la sesión actual."
+msgstr "Salir de la 세션 actual."
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:321
 msgid "Are you sure you want to select this session?"
-msgstr "¿Está seguro de que quiere seleccionar esta sesión?"
+msgstr "¿Está seguro de que quiere seleccionar esta 세션?"
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:322
 msgid "Are you sure you want to change to a different session?"
-msgstr "¿Está seguro de que quiere cambiar a una sesión diferente?"
+msgstr "¿Está seguro de que quiere cambiar a una 세션 diferente?"
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:324
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:327
 msgid "Any course progress or grades from your current session will be lost."
 msgstr ""
-"Se perderá cualquier calificación o progreso del curso en la sesión actual. "
+"Se perderá cualquier calificación o progreso del curso en la 세션 actual. "
 
 #: lms/static/js/learner_dashboard/views/course_entitlement_view.js:326
 msgid "Are you sure that you want to leave this session?"
-msgstr "¿ Está seguro de que quiere salir de esta sesión?"
+msgstr "¿ Está seguro de que quiere salir de esta 세션?"
 
 #: lms/static/js/learner_dashboard/views/entitlement_unenrollment_view.js:25
 msgid ""
@@ -5080,12 +5080,12 @@ msgstr "(opcional)"
 
 #: lms/static/js/student_account/views/LoginView.js:39
 msgid "We couldn't sign you in."
-msgstr "No se ha podido iniciar tu sesión."
+msgstr "No se ha podido iniciar tu 세션."
 
 #: lms/static/js/student_account/views/LoginView.js:112
 #, javascript-format
 msgid "An error occurred when signing you in to %s."
-msgstr "Ocurrió un error al iniciar tu sesión en %s."
+msgstr "Ocurrió un error al iniciar tu 세션 en %s."
 
 #: lms/static/js/student_account/views/LoginView.js:171
 #: lms/templates/verify_student/intro_step.underscore:38
@@ -5127,7 +5127,7 @@ msgid ""
 "your spam folders or  {anchorStart}contact {platform_name} "
 "Support{anchorEnd}."
 msgstr ""
-"Para iniciar sesión, debes activar tu cuenta.{line_break}{line_break} "
+"Para iniciar 세션, debes activar tu cuenta.{line_break}{line_break} "
 "Acabamos de enviar un enlace de activación a "
 "{strong_start}{email}{strong_end}. Si no recibes un correo electrónico, "
 "revisa tus carpetas de spam o {anchorStart}contacta al equipo de soporte de "
@@ -5143,7 +5143,7 @@ msgid ""
 "%(currentProvider)s account does not have a linked %(platformName)s account."
 " To link your accounts, sign in now using your %(platformName)s password."
 msgstr ""
-"Has iniciado sesión exitosamente en %(currentProvider)s, pero tu cuenta de "
+"Has iniciado 세션 exitosamente en %(currentProvider)s, pero tu cuenta de "
 "%(currentProvider)s no está vinculada con una cuenta en %(platformName)s. "
 "Para vincular tus cuentas, ingresa con tu usuario y contraseña de "
 "%(platformName)s."
@@ -5163,7 +5163,7 @@ msgstr "(requerido)"
 
 #: lms/static/js/student_account/views/RegisterView.js:516
 msgid "You've successfully signed into %(currentProvider)s."
-msgstr "Has iniciado sesión exitosamente en %(currentProvider)s."
+msgstr "Has iniciado 세션 exitosamente en %(currentProvider)s."
 
 #: lms/static/js/student_account/views/RegisterView.js:518
 msgid ""
@@ -5201,12 +5201,12 @@ msgid ""
 " your primary email is not available."
 msgstr ""
 "Puede acceder a su cuenta con esta dirección si no están disponibles el "
-"inicio de sesión único -SSO- o el acceso a su correo electrónico principal."
+"inicio de 세션 único -SSO- o el acceso a su correo electrónico principal."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:103
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:99
 msgid "Full Name"
-msgstr "Nombre completo"
+msgstr "이름 completo"
 
 #: lms/static/js/student_account/views/account_settings_factory.js:105
 msgid ""
@@ -5348,7 +5348,7 @@ msgid ""
 "{platform_name}."
 msgstr ""
 "Puedes vincular tus cuentas de redes sociales para simplificar el proceso de"
-" iniciar sesión en {platform_name}."
+" iniciar 세션 en {platform_name}."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:401
 msgid "ORDER NAME"
@@ -5390,7 +5390,7 @@ msgstr ""
 msgid ""
 "You must sign out and sign back in before your language changes take effect."
 msgstr ""
-"Debes cerrar sesión y volver a iniciar para que se aplique el cambio de "
+"Debes cerrar 세션 y volver a iniciar para que se aplique el cambio de "
 "idioma"
 
 #: lms/static/js/student_account/views/account_settings_fields.js:211
@@ -5416,7 +5416,7 @@ msgid ""
 "You can use your {accountName} account to sign in to your {platformName} "
 "account."
 msgstr ""
-"Puedes utilizar tu cuenta de {accountName} para iniciar sesión en tu cuenta "
+"Puedes utilizar tu cuenta de {accountName} para iniciar 세션 en tu cuenta "
 "de {platformName}."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:367
@@ -5433,7 +5433,7 @@ msgid ""
 "{accountName} to sign in to {platformName}."
 msgstr ""
 "Vincula tu cuenta {accountName} con tu cuenta de {platformName} y usa "
-"{accountName} para iniciar sesión en {platformName}."
+"{accountName} para iniciar 세션 en {platformName}."
 
 #: lms/static/js/student_account/views/account_settings_fields.js:431
 msgid "Unlinking"
@@ -7699,12 +7699,12 @@ msgstr "Información del certificado"
 
 #: cms/templates/js/certificate-editor.underscore:13
 msgid "Certificate Name"
-msgstr "Nombre del certificado"
+msgstr "이름 del certificado"
 
 #: cms/templates/js/certificate-editor.underscore:14
 #: cms/templates/js/certificate-editor.underscore:15
 msgid "Name of the certificate"
-msgstr "Nombre del certificado"
+msgstr "이름 del certificado"
 
 #: cms/templates/js/certificate-editor.underscore:19
 #: cms/templates/js/certificate-editor.underscore:20
@@ -7881,7 +7881,7 @@ msgstr "Habilitar ahora"
 
 #: cms/templates/js/course-instructor-details.underscore:4
 msgid "Instructor Name"
-msgstr "Nombre del instructor"
+msgstr "이름 del instructor"
 
 #: cms/templates/js/course-instructor-details.underscore:5
 msgid "Please add the instructor's name"
@@ -7902,7 +7902,7 @@ msgstr "Organización"
 
 #: cms/templates/js/course-instructor-details.underscore:16
 msgid "Organization Name"
-msgstr "Nombre de la organización"
+msgstr "이름 de la organización"
 
 #: cms/templates/js/course-instructor-details.underscore:17
 msgid "Please add the institute where the instructor is associated"
@@ -8022,7 +8022,7 @@ msgstr "Contraer/Expandir esta %(xblock_type)s"
 #: cms/templates/js/course-outline.underscore:148
 #: cms/templates/js/course-outline.underscore:153
 msgid "Display Name"
-msgstr "Nombre para mostrar:"
+msgstr "이름 para mostrar:"
 
 #: cms/templates/js/course-outline.underscore:169
 msgid "Discussions enabled"
@@ -8240,7 +8240,7 @@ msgstr ""
 
 #: cms/templates/js/course_grade_policy.underscore:3
 msgid "Assignment Type Name"
-msgstr "Nombre del tipo de tarea"
+msgstr "이름 del tipo de tarea"
 
 #: cms/templates/js/course_grade_policy.underscore:5
 msgid ""
@@ -8387,7 +8387,7 @@ msgstr "Borrar la fecha límite de calificación"
 
 #: cms/templates/js/edit-chapter.underscore:3
 msgid "Chapter Name"
-msgstr "Nombre del capítulo"
+msgstr "이름 del capítulo"
 
 #: cms/templates/js/edit-chapter.underscore:4
 msgid "Chapter {order}"
@@ -8423,7 +8423,7 @@ msgstr "Información del libro de texto"
 
 #: cms/templates/js/edit-textbook.underscore:12
 msgid "Textbook Name"
-msgstr "Nombre"
+msgstr "이름"
 
 #: cms/templates/js/edit-textbook.underscore:13
 msgid "Introduction to Cookie Baking"
@@ -8511,7 +8511,7 @@ msgstr "Información de configuración del grupo"
 
 #: cms/templates/js/group-configuration-editor.underscore:11
 msgid "Group Configuration Name"
-msgstr "Nombre de configuración del grupo"
+msgstr "이름 de configuración del grupo"
 
 #: cms/templates/js/group-configuration-editor.underscore:14
 msgid "Group Configuration ID"
@@ -8523,7 +8523,7 @@ msgstr "Este es el nombre de la Configuración del Grupo"
 
 #: cms/templates/js/group-configuration-editor.underscore:20
 msgid "Name or short description of the configuration"
-msgstr "Nombre o descripción corta de la configuración"
+msgstr "이름 o descripción corta de la configuración"
 
 #: cms/templates/js/group-configuration-editor.underscore:24
 msgid "This is the Description of the Group Configuration"
@@ -8542,7 +8542,7 @@ msgid ""
 "Name of the groups that students will be assigned to, for example, Control, "
 "Video, Problems. You must have two or more groups."
 msgstr ""
-"Nombre de los grupos a los que los estudiantes serán asignados. Por ejemplo,"
+"이름 de los grupos a los que los estudiantes serán asignados. Por ejemplo,"
 " Control, video, problemas. Debe tener dos o más grupos."
 
 #: cms/templates/js/group-configuration-editor.underscore:33
@@ -8947,11 +8947,11 @@ msgstr "Configuración de signatarios"
 
 #: cms/templates/js/signatory-editor.underscore:13
 msgid "Name "
-msgstr "Nombre"
+msgstr "이름"
 
 #: cms/templates/js/signatory-editor.underscore:14
 msgid "Name of the signatory"
-msgstr "Nombre del signatario"
+msgstr "이름 del signatario"
 
 #: cms/templates/js/signatory-editor.underscore:15
 msgid "The name of this signatory as it should appear on certificates."
@@ -10061,7 +10061,7 @@ msgstr "Enviar cambio de inscripción"
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:9
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:7
 msgid "Username or email address"
-msgstr "Nombre de usuario o  correo electrónico"
+msgstr "이름 de usuario o  correo electrónico"
 
 #: lms/djangoapps/support/static/support/templates/enrollment.underscore:20
 msgid "Course ID"
@@ -10438,7 +10438,7 @@ msgstr "para"
 
 #: lms/templates/fields/field_order_history.underscore:12
 msgid "Product Name"
-msgstr "Nombre del Producto"
+msgstr "이름 del Producto"
 
 #: lms/templates/fields/field_textarea.underscore:52
 msgid ""
@@ -10471,7 +10471,7 @@ msgstr "Correo electrónico"
 
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:28
 msgid "Legal name"
-msgstr "Nombre"
+msgstr "이름"
 
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:32
 msgid "Country of residence"
@@ -10917,7 +10917,7 @@ msgstr "Próximamente más sesiones."
 
 #: lms/templates/learner_dashboard/course_entitlement.underscore:7
 msgid "Change to a different session or leave the current session."
-msgstr "Cambiar a una sesión diferente o salir de la sección actual."
+msgstr "Cambiar a una 세션 diferente o salir de la sección actual."
 
 #: lms/templates/learner_dashboard/course_entitlement.underscore:9
 msgid "To access the course, select a session."
@@ -11301,7 +11301,7 @@ msgstr "Ocurrió un error. Por favor recargue la página."
 
 #: lms/templates/student_account/form_field.underscore:139
 msgid "Need help signing in?"
-msgstr "¿Necesita ayuda para iniciar sesión?"
+msgstr "¿Necesita ayuda para iniciar 세션?"
 
 #: lms/templates/student_account/form_field.underscore:141
 msgid "Forgot my password"
@@ -11310,7 +11310,7 @@ msgstr "Olvidé mi contraseña"
 #: lms/templates/student_account/form_field.underscore:143
 #: lms/templates/student_account/form_field.underscore:157
 msgid "Other sign-in issues"
-msgstr "Otros problemas para iniciar sesión"
+msgstr "Otros problemas para iniciar 세션"
 
 #: lms/templates/student_account/form_field.underscore:147
 msgid "Sign in with your company or school"
@@ -11318,7 +11318,7 @@ msgstr "Iniciar sesion con su compañía o escuela"
 
 #: lms/templates/student_account/form_field.underscore:151
 msgid "Need other help signing in?"
-msgstr "¿Necesita otra ayuda para iniciar sesión?"
+msgstr "¿Necesita otra ayuda para iniciar 세션?"
 
 #: lms/templates/student_account/form_field.underscore:154
 msgid "Create an account"
@@ -11327,25 +11327,25 @@ msgstr "Crear una cuenta"
 #: lms/templates/student_account/hinted_login.underscore:4
 #: lms/templates/student_account/login.underscore:56
 msgid "Sign in"
-msgstr "Iniciar sesión"
+msgstr "Iniciar 세션"
 
 #: lms/templates/student_account/hinted_login.underscore:8
 #, python-format
 msgid "Would you like to sign in using your %(providerName)s credentials?"
-msgstr "¿Desea iniciar sesión usando %(providerName)s?"
+msgstr "¿Desea iniciar 세션 usando %(providerName)s?"
 
 #: lms/templates/student_account/hinted_login.underscore:16
 #, python-format
 msgid "Sign in using %(providerName)s"
-msgstr "Iniciar sesión usando %(providerName)s"
+msgstr "Iniciar 세션 usando %(providerName)s"
 
 #: lms/templates/student_account/hinted_login.underscore:26
 msgid "Show me other ways to sign in or register"
-msgstr "Mostrar otras formas de iniciar sesión o registrarme"
+msgstr "Mostrar otras formas de iniciar 세션 o registrarme"
 
 #: lms/templates/student_account/institution_login.underscore:4
 msgid "Sign in with Institution/Campus Credentials"
-msgstr "Iniciar sesión con las credenciales de la institución o el Campus"
+msgstr "Iniciar 세션 con las credenciales de la institución o el Campus"
 
 #: lms/templates/student_account/institution_login.underscore:8
 #: lms/templates/student_account/institution_register.underscore:9
@@ -11411,7 +11411,7 @@ msgstr ""
 
 #: lms/templates/student_account/login.underscore:27
 msgid "Sign In"
-msgstr "Iniciar sesión"
+msgstr "Iniciar 세션"
 
 #: lms/templates/student_account/login.underscore:34
 msgid ""
@@ -11439,12 +11439,12 @@ msgstr "Usar información de mi universidad"
 #: lms/templates/student_account/login.underscore:48
 #: lms/templates/student_account/login.underscore:63
 msgid "or sign in with"
-msgstr "o inicie sesión con"
+msgstr "o inicie 세션 con"
 
 #: lms/templates/student_account/login.underscore:76
 #, python-format
 msgid "Sign in with %(providerName)s"
-msgstr "Iniciar sesión usando %(providerName)s"
+msgstr "Iniciar 세션 usando %(providerName)s"
 
 #: lms/templates/student_account/password_reset.underscore:4
 msgid "Password assistance"
@@ -11455,7 +11455,7 @@ msgid ""
 "Please enter your log-in or recovery email address below and we will send "
 "you an email with instructions."
 msgstr ""
-"Por favor ingrese su dirección de correo electrónico de inicio de sesión o "
+"Por favor ingrese su dirección de correo electrónico de inicio de 세션 o "
 "de recuperación a continuación , y le enviaremos un correo electrónico con "
 "instrucciones."
 
