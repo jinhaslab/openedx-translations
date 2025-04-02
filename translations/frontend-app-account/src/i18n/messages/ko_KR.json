@@ -15,7 +15,7 @@
   "account.settings.section.site.preferences": "사이트 기본 설정",
   "account.settings.section.linked.accounts": "연결된 계정",
   "account.settings.section.linked.accounts.description": "신원 계정을 연결하여 로그인을 {SiteName}로 단순화 할 수 있습니다.",
-  "account.settings.field.username": "사용자 이름",
+  "account.settings.field.username": "사용자 ID(화면 표시용)",
   "account.settings.field.username.help.text": "{sitename}에서 귀하를 식별하는 이름입니다. ",
   "account.settings.field.full.name": "전체 이름",
   "account.settings.field.full.name.empty": "이름을 추가하십시오",
