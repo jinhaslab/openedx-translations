@@ -1,0 +1,4 @@
+{
+  "unexpected.error.message.text": "예상치 못한 오류가 발생했습니다. 아래 버튼을 눌러 {siteName} 페이지를 새로 고쳐 주세요. ({provider}에서 제공)",
+  "unexpected.error.button.text": "다시 시도해 보세요."
+}
