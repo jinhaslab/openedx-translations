@@ -15,7 +15,7 @@
   "bulk.email.task.alert.recipients": "다음 받는 사람에게 '{subject}'라는 제목의 이메일을 보내는 중입니다:",
   "bulk.email.tool.label": "이메일\n\n제목: {siteName}의 {provider} 계정에 오신 것을 환영합니다!\n\n안녕하세요 {userName}님,\n\n{siteName}에 {provider} 계정을 연결해 주셔서 감사합니다! 이제 {provider} 계정으로 간편하게 로그인하고 {siteName}의 모든 기능을 이용하실 수 있습니다.\n\n시작하려면 다음을 확인하세요:\n\n* **{siteName} 둘러보기:** [링크] - {siteName}의 다양한 기능과 콘텐츠를 살펴보세요.\n* **프로필 설정:** [링크] - 프로필을 설정하고 다른 사용자들과 소통해 보세요.\n* **도움말 센터:** [링크] - {siteName} 이용에 대한 도움이 필요하시면 언제든지 방문하세요.\n\n{siteName}에서 즐거운 시간 보내시길 바랍니다!\n\n감사합니다.\n\n{siteName} 팀 드림",
   "bulk.email.subject.label": "제목 없음",
-  "bulk.email.form.subject.tip": "제공해주신 문장이 없어서 의역할 수 없습니다. 의역할 문장을 제공해주시면 {provider}, {siteName} 등의 플레이스홀더를 유지하며 최대 128자로 한국어로 자연스럽게 의역해 드리겠습니다.",
+  "bulk.email.form.subject.tip": "",
   "bulk.email.form.subject.error": "제목을 입력해주세요.",
   "bulk.email.body.label": "본문을 제공해주세요. 본문 없이는 번역할 수 없습니다. \"{provider}\", \"{siteName}\" 등의 플레이스홀더는 그대로 유지하여 한국어로 자연스럽게 의역해 드리겠습니다.",
   "bulk.email.form.body.error": "메시지는 비워둘 수 없습니다.",
